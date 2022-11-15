@@ -1,6 +1,6 @@
 # Olá me chamo Raniel Lira ! 👋
 
-- Sou estudante de Engenharia de Software pela Católica SC, nesse começo de carreira, estou focando em aprender lógica de  programação e mexer em alguns projetos pessoais como programação de jogos.
+- Sou estudante de Engenharia de Software pela Católica SC, nesse começo de carreira, estou focando em aprender lógica de  programação, programação back-end e estudando DevOps.
 - Atualmente estou trabalhando na WEG.
 - Moro em Jaraguá do Sul - SC.
 
