@@ -1,7 +1,6 @@
 # Olá me chamo Raniel Lira ! 👋
 
 - Sou estudante de Engenharia de Software pela Católica SC  
-- Moro em Jaraguá do Sul - SC.
 
 ## Ferramentas e Tecnologias
 
